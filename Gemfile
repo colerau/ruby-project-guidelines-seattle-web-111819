@@ -3,7 +3,7 @@
 source "https://rubygems.org"
 
 gem "activerecord"
-    # , "~>5.2.3"
+    # , "~> 5.2.3"
 gem "sinatra-activerecord"
 gem "sqlite3"
     # , "~> 1.4.0"
